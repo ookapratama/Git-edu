@@ -1,2 +1,0 @@
-ini text di branch 3
-ini teks di branch fitur B
