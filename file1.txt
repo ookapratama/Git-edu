@@ -1,3 +1,8 @@
 ini text di branch fitur 1
+<<<<<<< HEAD
 sya ubah file di branch fitur A
 perubaha A
+=======
+ini teks di branch fitur B
+perubahan BBBBB
+>>>>>>> fiturB
