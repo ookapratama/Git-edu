@@ -1,1 +1,2 @@
 ini text di branch fitur 1
+sya ubah file di branch fitur A
